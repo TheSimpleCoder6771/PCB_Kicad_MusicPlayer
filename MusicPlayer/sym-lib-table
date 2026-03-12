@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MusicPlayerLib")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbols/MusicPlayerLib.kicad_sym")(options "")(descr ""))
+)
